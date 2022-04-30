@@ -1,20 +1,20 @@
 # Election_Analysis
 
-# Overview
+## Overview
 An election board has given you the data from a recent election and esked you to automate the data to see the election results. Here is a list of what was needed to complete the audit:
 
-1. Deterine shat data to retrieve
+1. Deterime shat data to retrieve
 2. Number of Votes cast
 3. A list of candidates who recieved the votes
 4. Number of votes each candidate won
 5. Percent of votes each candidate won
 6. Winner of the Election
 
-# Resources
+## Resources
 
 Data Source: election_results.cvs
 
-# Summary
+## Summary
 
 The analysis showed that there were 369,711 votes cast
 The three candidates  and the number and percentages of votes ther recieved were:
