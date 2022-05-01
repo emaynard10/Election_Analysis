@@ -3,7 +3,7 @@
 ## Overview
 An election board has given you the data from a recent election and esked you to automate the data to see the election results. Here is a list of what was needed to complete the audit:
 
-1. Deterime shat data to retrieve
+1. Deterime what data to retrieve
 2. Number of Votes cast
 3. A list of candidates who recieved the votes
 4. Number of votes each candidate won
@@ -26,6 +26,6 @@ Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 
 And the winner of the election was:
-Winner: Diana DeGette
-Winning Vote Count: 272,892
+Diana DeGette
+With a Winning Vote Count: 272,892
 Winning Percentage: 73.8%
