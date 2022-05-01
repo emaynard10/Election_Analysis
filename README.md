@@ -63,5 +63,5 @@ The script modifications include modifying which data needs to be read by import
 
    ![Screen Shot 2022-05-01 at 2 23 40 PM](https://user-images.githubusercontent.com/99676466/166163254-678a2f44-3a59-4a94-9aa5-f5c2b4cb372b.png)
 
-These modifciations are easy to make and it there was additional results needed a few more lines of code could be added to claculate that as well.
+These modifciations are easy to make and if there was additional results needed a few more lines of code could be added to calculate that as well.
 
